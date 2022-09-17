@@ -4,6 +4,6 @@ This repository contains files associated with the "NBA-Overview-Dashboard" proj
 <br /> <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To perform this project, I downloaded csv files from https://www.basketball-reference.com/. I then performed preprocessing (including cleaning and EDA) on these files using SQL and excel. I finished this process by connecting a tableau dashboard to this MYSQL database, and creating a dashboard to serve the overarching purpose of this project. 
 <br /> <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note that the ZIP file above allows you to follow along with some of the preprocessing I peroformed in SQL. If you want you can just look over the SQL scripts; or alternitavely you can run the commands yourself by following the comments in nbadash.sql. The tableau workbook can also be rendered in tableau desktop using the NBA
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note that the ZIP file above allows you to follow along with some of the preprocessing I peroformed in SQL. If you want you can just look over the SQL scripts; or alternitavely you can run the commands yourself by following the comments in nbadash.sql. The tableau workbook can also be rendered in tableau desktop using the "NBA Overview for the Casual Fan..twbx" file above. Please reach out to me with any further questions at Benedict.Huston@uvm.edu
 
 
